@@ -5,7 +5,7 @@
 </p>
 <br>
 <h2>💻Languages and tools</h2>
-<div style="display:flex">
+<div style="display:flex; gap:25px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=70/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=70/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=70/>
