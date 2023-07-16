@@ -1,7 +1,8 @@
 <h1>👨🏽‍💻Hairul Sulaiman, Frontend Developer</h1>
 
 <p align:center>
-    Fusce sit amet massa consequat, ultrices urna dictum, egestas urna. Sed vitae malesuada enim. Etiam ullamcorper semper porttitor. Nam eleifend convallis quam, quis consequat ex fringilla sed. Vivamus velit lacus, luctus quis malesuada quis, luctus suscipit tellus. Cras pulvinar, augue aliquet tempus vestibulum, ex nisi ultricies eros, vel porta massa.
+    A former engineering student turned into a front-end developer. I am passionate when it comes to programming and am constantly learning and expanding my skills.
+    a very curious person who loves discovering and trying out new things. I have dedicated myself to becoming a lifelong learner and am contented with the things        that I learn.
 </p>
 <br>
 <h2>💻Languages and tools</h2>
